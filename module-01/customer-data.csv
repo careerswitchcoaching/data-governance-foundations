@@ -1,0 +1,9 @@
+customer_id,full_name,email,country,total_spent,source
+C001,Amina Patel,amina@example.org,UK,120,Online
+C002,Marco Lee,marco@example.org,United Kingdom,75,CRM
+C003,,c003@example.org,UK,40,CRM
+C004,Nora Reed,nora.example.org,US,60,Online
+C005,Anika Rao,anika@example.org,UK,-25,CRM
+C002,Marco Lee,marco@example.org,UK,75,Online
+C006,Lee Chen,lee@example.org,U.S.,30,CRM
+C007,Eva Gomez,eva@example.org,US,,Online
